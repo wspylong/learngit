@@ -7,4 +7,8 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
-branch dev
+<<<<<<< HEAD
+local branch dev & push origin dev
+=======
+local branch dev & push origin dev
+>>>>>>> e2ac5151d6845cd86c4d6ee168caeeaaa66812fc
